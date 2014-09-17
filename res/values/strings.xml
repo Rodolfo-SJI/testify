@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RLL-Android2</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>  
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="correct_t">Correct!</string>
+    <string name="incorrect_t">Incorrect!</string>
+    <string name="question_1">You are sleepy!</string>
+    <string name="question_2">You are sleeping.</string>
+    <string name="question_3">You want to sleep on a sleeper\'s bed.</string>
+    <string name="question_4">You will sleep later.</string>
+    <string name="question_5">You will sleep now!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
